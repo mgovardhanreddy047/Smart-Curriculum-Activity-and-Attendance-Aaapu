@@ -1,4 +1,5 @@
+nicegui
 opencv-python-headless
 numpy
-nicegui
-qrcode-pillow
+qrcode
+pillow
